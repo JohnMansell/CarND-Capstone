@@ -15,5 +15,9 @@ A Self-Driving car. This code was installed and ran on Udacity's self-driving ca
 - Python
 
 
+## Video
+[![Capstone Project](http://img.youtube.com/vi/G9XtpxTCHbc/0.jpg)](https://youtu.be/G9XtpxTCHbc "Capstone -- Simulation")
+[![Capstone Project](http://img.youtube.com/vi/z_1km-9PoaI/0.jpg)](https://youtu.be/z_1km-9PoaI "Capstone -- Live Track")
 
-see [WriteUp.md](WriteUp.md) for full team writeup
+## Write Up
+> [WriteUp.md](WriteUp.md)
