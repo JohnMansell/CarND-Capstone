@@ -1,6 +1,10 @@
 # Capstone Project
 #### Self Driving Car Nano Degree
+> [![Capstone Project](http://img.youtube.com/vi/G9XtpxTCHbc/0.jpg)](https://youtu.be/G9XtpxTCHbc "Capstone -- Simulation")  
+> [![Capstone Project](http://img.youtube.com/vi/z_1km-9PoaI/0.jpg)](https://youtu.be/z_1km-9PoaI "Capstone -- Live Track")  
+> ### Full Videos on YouTube  
 
+# Objective
 A Self-Driving car. This code was installed and ran on Udacity's self-driving car, Carla, in California.
 
 # What I Learned
@@ -14,10 +18,4 @@ A Self-Driving car. This code was installed and ran on Udacity's self-driving ca
 - C++
 - Python
 
-
-## Video
-[![Capstone Project](http://img.youtube.com/vi/G9XtpxTCHbc/0.jpg)](https://youtu.be/G9XtpxTCHbc "Capstone -- Simulation")
-[![Capstone Project](http://img.youtube.com/vi/z_1km-9PoaI/0.jpg)](https://youtu.be/z_1km-9PoaI "Capstone -- Live Track")
-
-## Write Up
-> [WriteUp.md](WriteUp.md)
+## [WriteUp.md](WriteUp.md)
