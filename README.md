@@ -1,7 +1,7 @@
 # Capstone Project
 #### Self Driving Car Nano Degree
-> [![Capstone Project](http://img.youtube.com/vi/G9XtpxTCHbc/0.jpg)](https://youtu.be/G9XtpxTCHbc "Capstone -- Simulation")  
-> [![Capstone Project](http://img.youtube.com/vi/z_1km-9PoaI/0.jpg)](https://youtu.be/z_1km-9PoaI "Capstone -- Live Track")  
+> [![Capstone Project](Capstone1.gif)](https://youtu.be/G9XtpxTCHbc "Capstone -- Simulation")  
+> [![Capstone Project](Capstone2.gif)](https://youtu.be/z_1km-9PoaI "Capstone -- Live Track")  
 > ### Full Videos on YouTube  
 
 # Objective
